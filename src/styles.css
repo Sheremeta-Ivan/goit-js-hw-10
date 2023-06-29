@@ -31,7 +31,7 @@ body {
   font-family: inherit;
 }
 .breed-select option {
-  background-color: #ffe760;
+  background-color: #fff09e;
 }
 
 .breed-select::-webkit-scrollbar {
@@ -56,8 +56,9 @@ body {
 }
 
 .breed-image {
+  padding: 15px;
   width: 500px;
-  border-radius: 30px 0 0 30px;
+  border-radius: 30px;
 }
 .breed-container {
   width: 400px;
@@ -65,10 +66,10 @@ body {
 }
 .breed-name {
   font-size: 46px;
-  color: #ff930f;
+  color: #1D201F;
 }
 .breed-temperament {
-  color: rgb(255 54 54 / 50%);
+  color: #DF928E;
   font-weight: 600;
   font-size: 24px;
   line-height: 1.5;
